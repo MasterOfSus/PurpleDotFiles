@@ -1,0 +1,5 @@
+colors.scheme=Sus
+visualizer.spectrum.bar.width=4
+audio.stereo.enabled=false
+audio.sources=pulse
+visualizer.spectrum.falloff.mode=fill
